@@ -19,7 +19,8 @@
 }
 
 .sidebar{
-    background-color: var(--bg-clr);
+    /* background-color: var(--bg-clr); */
+    background-color: aqua;
     color: white;
     grid-area: 1 / 1 / 6 / 2;
     display: flex;
