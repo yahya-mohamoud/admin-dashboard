@@ -93,3 +93,7 @@ svg{
     gap: 10px;
     align-items: center;
 }
+
+img{
+    background-color: rgb(255, 255, 0);
+}
