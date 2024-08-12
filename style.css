@@ -80,7 +80,7 @@ svg{
     fill: white;
 }
 
-.search .person svg{
+.search, .person svg{
     fill: black;
 }
 .search{
