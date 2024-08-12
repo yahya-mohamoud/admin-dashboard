@@ -83,3 +83,7 @@ svg{
 .search svg{
     fill: black;
 }
+.search{
+    display: flex;
+    align-items: center;
+}
