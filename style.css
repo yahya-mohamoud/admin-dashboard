@@ -37,11 +37,13 @@
 
 .wrapper-one{
     display: flex;
+    justify-content: space-between;
     gap: 10px;
 }
 
 .wrapper-two{
     display: flex;
+    justify-content: space-between;
     gap: 10px;
 }
 
