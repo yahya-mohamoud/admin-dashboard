@@ -39,7 +39,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 10px;
-    margin: 30px;
+    margin: 15px 30px;
 }
 
 .wrapper-two{
@@ -47,6 +47,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 10px;
+    margin: 15px 30px;
 }
 
 ul{
