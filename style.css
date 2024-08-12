@@ -53,3 +53,9 @@ a{
     color: white;
     text-decoration: none;
 }
+
+input{
+    border-radius: 10px;
+    width: 320px;
+    height: 22px;
+}
