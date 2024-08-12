@@ -67,10 +67,10 @@ input{
 .side-lists-three, .side-lists-four,
 .side-lists-five, .side-lists-six, 
 .three-lists-1, .three-lists-2
-,.three-lists-3{
+,.three-lists-3, .hero-bar{
     display: flex;
     gap: 10px;
-    margin: 20px 0 0 20px;
+    margin: 10px 0 0 20px;
 
 }
 
