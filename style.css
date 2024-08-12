@@ -43,6 +43,7 @@
     margin: 10px;
     border-left: 7px solid rgb(240, 180, 41);
     border-radius: 4px;
+    padding: 8px;
 }
 
 .grid2{
@@ -51,6 +52,7 @@
     margin: 10px;
     border-left: 7px solid rgb(240, 180, 41);
     border-radius: 4px;
+    padding: 8px;
 }
 
 .header{
