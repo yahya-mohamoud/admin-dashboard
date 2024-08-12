@@ -37,6 +37,12 @@
 
 ul{
     list-style: none;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
 }
 
 .hero-bar{
