@@ -1,3 +1,8 @@
+--root{
+    --bg-clr: rgb(25, 146, 212);
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -14,7 +19,7 @@
 }
 
 .sidebar{
-    background-color: rgb(0, 174, 255);
+    background-color: var(--bg-clr);
     color: white;
     grid-area: 1 / 1 / 6 / 2;
     display: flex;
@@ -107,4 +112,19 @@ svg{
 
 img{
     background-color: rgb(255, 255, 0);
+}
+
+.hero-buttons{
+    display: flex;
+    gap: 20px;
+    
+}
+
+button{
+    background-color: var(--bg-clr);
+    width: 8opx;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    color: white;
 }
