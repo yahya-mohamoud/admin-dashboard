@@ -13,6 +13,8 @@
 .sidebar{
     background-color: aqua;
     border: 1px solid black;
+    grid-column: 1 /2;
+    grid: 1 / 7;
 }
 
 .content{
