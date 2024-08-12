@@ -77,3 +77,7 @@ input{
 svg{
     fill: white;
 }
+
+.search svg{
+    fill: black;
+}
