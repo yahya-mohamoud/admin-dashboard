@@ -50,6 +50,10 @@
     margin: 15px 30px;
 }
 
+.para{
+    display: flex;
+}
+
 ul{
     list-style: none;
 
