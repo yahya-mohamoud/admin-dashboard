@@ -69,4 +69,7 @@ input{
 .three-lists-1, .three-lists-2
 ,.three-lists-3{
     display: flex;
+    gap: 10px;
+    margin: 20px 0 0 20px;
+    
 }
