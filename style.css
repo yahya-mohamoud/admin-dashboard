@@ -31,7 +31,6 @@
 
 .content{
    background-color: var(--bg-clr-scd);
-    grid-column: 2 / 5;
     grid-area: 2 / 2 / 6 / 5;
 }
 
