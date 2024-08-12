@@ -36,6 +36,8 @@
 
 .wrapper-one{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     gap: 10px;
     margin: 30px;
 }
