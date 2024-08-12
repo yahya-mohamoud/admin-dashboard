@@ -15,9 +15,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
-    /* width: ;
-    height: 100vh; */
-    
+    height: 100vh;
 }
 
 .sidebar{
