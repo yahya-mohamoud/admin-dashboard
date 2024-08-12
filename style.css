@@ -121,7 +121,7 @@ img{
 }
 
 button{
-    background-color: var( --bg-clr);
+    background-color: var( --bg-clr, blue);
     width: 8opx;
     height: 30px;
     border: none;
