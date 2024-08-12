@@ -23,8 +23,7 @@
 }
 
 .content{
-    background-color: green;
-    border: 1px solid yellow;
+   background-color: aliceblue;
     grid-column: 2 / 5;
     grid-area: 2 / 2 / 6 / 5;
 }
