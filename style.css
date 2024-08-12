@@ -8,6 +8,8 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(6, 1fr);
+    width: 100vw;
+    height: 100vh;
 }
 
 .sidebar{
