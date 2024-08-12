@@ -62,3 +62,11 @@ input{
     border: none;
     background-color: rgb(226, 239, 252);
 }
+
+.side-lists-1, .side-lists-2,
+.side-lists-3, .side-lists-4,
+.side-lists-5, .side-lists-6, 
+.three-lists-1, .three-lists-2
+,.three-lists-3{
+    display: flex;
+}
