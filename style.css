@@ -30,6 +30,11 @@
 .content{
    background-color: var(--bg-clr-scd);
     grid-area: 2 / 2 / 6 / 5;
+    display: grid;
+}
+
+.grid1{
+    grid-area: 2 / 2 / 3 / 3;
 }
 
 .header{
