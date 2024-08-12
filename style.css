@@ -32,10 +32,12 @@
    background-color: var(--bg-clr-scd);
     grid-area: 2 / 2 / 6 / 5;
     display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 1fr);
 }
 
 .grid1{
-    grid-area: 2 / 2 / 3 / 3;
+    grid-area: 1 / 1 / 3 / 2;
     background-color: var(--bg-clr-org);
     margin: 10px;
     border-left: 10px solid rgb(240, 180, 41);
