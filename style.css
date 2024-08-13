@@ -67,7 +67,7 @@ body{
 }
 
 .ad-board-1, .ad-board-2,
-.ad-board-3 h3{
+.ad-board-3 > h3{
     margin: 10px;
 }
 
