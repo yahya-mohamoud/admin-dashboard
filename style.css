@@ -66,16 +66,12 @@ body{
     justify-content: space-between;
 }
 
-/* .ad-board-1, .ad-board-2,
-.ad-board-3 > h3{
-    margin: 10px;
-} */
 
 .ad-board-1{
     grid-area: 1 / 1 / 2 / 6;
     display: flex;
     justify-content: space-between;
-    margin: 10px 60px 0 10px;
+    margin: 10px 25px 0 10px;
 }
 
 .grid1{
