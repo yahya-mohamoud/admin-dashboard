@@ -61,11 +61,11 @@
 }
 
 .grid4{
-    grid-area: 3 / 2 / 4 / 3;
+    grid-area: 3 / 2 / 5 / 3;
 }
 
 .grid5{
-    grid-area: 5 / 1 / 7 / 3;
+    grid-area: 5 / 1 / 7 / 2;
 }
 
 .grid6{
