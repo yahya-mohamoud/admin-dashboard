@@ -2,6 +2,10 @@
     --bg-clr-pr: rgb(25, 146, 212);
     --bg-clr-scd: rgb(226, 239, 252);
     --bg-clr-org: white;
+
+    --lg-fn: 1.25rem;
+    --md-fn: 1rem;
+    --sm-fn: 0.6rem;
 }
 
 
@@ -75,6 +79,8 @@
 .grid7{
     background-color: var(--bg-clr-org);
     margin: 10px 0;
+    padding: 12px;
+    grid-area: 1 / 5 / 4 / 6;
 }
 .header{
     grid-area: 1/ 2 / 2 / 5;
