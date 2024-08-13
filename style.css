@@ -50,7 +50,6 @@
     border-left: 7px solid rgb(240, 180, 41);
     border-radius: 4px;
     padding: 12px;
-    height: clamp(150px, 200px, 1fr);
 }
 
 .grid1{
