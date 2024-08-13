@@ -198,3 +198,7 @@ button{
 .headline .two{
     margin-right: 150px;
 }
+
+.elements svg{
+    fill: black;
+}
