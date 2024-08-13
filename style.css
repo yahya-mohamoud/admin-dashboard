@@ -205,3 +205,8 @@ button{
 .elements svg{
     fill: black;
 }
+
+.elements{
+    display: flex;
+    justify-content: right;
+}
