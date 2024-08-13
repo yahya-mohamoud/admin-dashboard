@@ -50,7 +50,7 @@ body{
     grid-area: 2 / 2 / 6 / 5;
     display: grid;
     grid-template-columns: repeat(5, minmax(100px, 200px));;
-    grid-template-rows: 50px repeat(6, minmax(80px, 120px));;
+    grid-template-rows: 50px repeat(6, minmax(80px, 110px));;
     gap: 6px;
 }
 
@@ -95,9 +95,14 @@ body{
     margin: 10px;
     padding: 12px;
     grid-area: 2 / 5 / 5 / 7;
-    font-size: var(--md-fn);
+    font-size: var(--sm-fn);
     border-radius: 6px;
 }
+
+.grid7 h5{
+    font-size: var(--lg-fn);
+}
+
 .grid8{
     background-color: var(--bg-clr-org);
     margin: 10px;
