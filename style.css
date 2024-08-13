@@ -121,6 +121,10 @@ hr{
     margin-bottom: 40px;
 }
 
+.ad-board-3 > h3{
+    margin-left: 10px;
+}
+
 .grid8{
     background-color: var(--bg-clr-org);
     margin: 10px 10px 40px 10px;
