@@ -80,8 +80,6 @@ body{
 
 .grid4{
     grid-area: 4 / 3/ 6 / 5;
-    margin-bottom: 40px;
-
 }
 
 .grid5{
@@ -91,6 +89,7 @@ body{
 
 .grid6{
     grid-area: 6 / 3 / 8 / 5;
+    margin-bottom: 40px;
 }
 
 .grid7{
