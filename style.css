@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'roboto';
+    src: url('roboto-black-webfont.woff2') format('woff2'),
+         url('roboto-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root{
     --bg-clr-pr: rgb(25, 146, 212);
     --bg-clr-scd: rgb(226, 239, 252);
@@ -8,14 +16,6 @@
     --sm-fn: 0.6rem;
 }
 
-@font-face {
-    font-family: 'robotoblack';
-    src: url('roboto-black-webfont.woff2') format('woff2'),
-         url('roboto-black-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
 
 
 
@@ -26,7 +26,7 @@
 }
 
 body{
-    font-family: 'robotoblack';
+    font-family: 'roboto';
 }
 
 .container{
