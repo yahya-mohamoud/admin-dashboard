@@ -211,3 +211,13 @@ button{
     justify-content: right;
     gap: 20px;
 }
+
+.photo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+img{
+    border-radius: 50%;
+}
