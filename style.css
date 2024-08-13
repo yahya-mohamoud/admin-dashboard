@@ -21,7 +21,7 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
-    height: 100vh;
+    height: fit-content;
 }
 
 .sidebar{
@@ -39,7 +39,7 @@
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    gap: 10px;
+    gap: 6px;
 }
 
 .grid1, .grid2, .grid3,
@@ -82,6 +82,7 @@
     padding: 12px;
     grid-area: 1 / 5 / 4 / 7;
     font-size: var(--sm-fn);
+    border-radius: 6px;
 }
 .grid8{
     background-color: var(--bg-clr-org);
@@ -89,6 +90,7 @@
     padding: 12px;
     font-size: var(--sm-fn);
     grid-area: 4 / 5 / 7 / 7;
+    border-radius: 6px;
 }
 .header{
     grid-area: 1/ 2 / 2 / 5;
