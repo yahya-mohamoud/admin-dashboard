@@ -93,14 +93,14 @@ body{
 .grid7{
     background-color: var(--bg-clr-org);
     margin: 10px;
-    padding: 12px;
+    padding: 22px;
     grid-area: 2 / 5 / 5 / 7;
     font-size: var(--sm-fn);
     border-radius: 6px;
 }
 
 .grid7 h5{
-    font-size: var(--lg-fn);
+    font-size: var(--md-fn);
 }
 
 .grid8{
