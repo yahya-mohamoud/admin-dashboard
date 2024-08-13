@@ -63,7 +63,7 @@ body{
     padding: 12px;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    justify-content: space-between;
 }
 
 .grid1{
@@ -117,6 +117,7 @@ hr{
 .header{
     grid-column: 2 / 3;
     grid-row: 1 / 2;
+    height: fit-content;
 
 }
 
@@ -153,7 +154,7 @@ a{
 }
 
 input{
-    border-radius: 10px;
+    border-radius: 20px;
     width: 600px;
     height: 28px;
     border: none;
@@ -169,6 +170,8 @@ input{
     gap: 10px;
     margin: 10px 0 0 20px;
     align-items: center;
+    font-weight: 500;
+    font-size: var(--lg-fn);
 }
 
 svg{
