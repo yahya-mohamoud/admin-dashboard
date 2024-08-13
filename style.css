@@ -209,4 +209,5 @@ button{
 .elements{
     display: flex;
     justify-content: right;
+    gap: 20px;
 }
