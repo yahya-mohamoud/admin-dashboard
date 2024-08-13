@@ -99,6 +99,9 @@ body{
     border-radius: 6px;
 }
 
+hr{
+    margin: 20px 0;
+}
 .grid7 h5{
     font-size: var(--md-fn);
 }
