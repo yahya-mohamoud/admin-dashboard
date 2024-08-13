@@ -93,6 +93,10 @@ body{
 }
 
 .ad-board-2{
+    grid-area: 1/ 5 / 4 /7;
+}
+
+.grid7{
     background-color: var(--bg-clr-org);
     margin: 10px;
     padding: 22px;
@@ -109,6 +113,10 @@ hr{
 }
 
 .ad-board-3{
+    grid-area: 4 / 5 / 7 / 7;
+}
+
+.grid8{
     background-color: var(--bg-clr-org);
     margin: 10px 10px 40px 10px;
     padding: 12px;
