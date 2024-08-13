@@ -186,3 +186,14 @@ button{
     border-radius: 20px;
     color: white;
 }
+
+.headline{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 10px;
+}
+
+.headline .two{
+    margin-right: 50px;
+}
