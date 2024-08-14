@@ -181,6 +181,12 @@ input{
     background-color: var(--bg-clr-scd);
 }
 
+
+input:focus{
+    outline: none;
+    border: 1px solid lightsteelblue;
+    border-radius: 20px;
+}
 .side-lists-one, .side-lists-two,
 .side-lists-three, .side-lists-four,
 .side-lists-five, .side-lists-six, 
