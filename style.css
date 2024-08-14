@@ -119,6 +119,7 @@ hr{
 .ad-board-3{
     grid-area: 5 / 5 / 8 / 7;
     margin-bottom: 40px;
+    margin-top: 18px;
 }
 
 .ad-board-3 > h3{
@@ -230,6 +231,18 @@ button{
     border: none;
     border-radius: 20px;
     color: white;
+}
+
+button:hover{
+    width: 90px;
+    height: 35px;
+    font-size: 18px;
+    filter: drop-shadow(10px 10px 10px black)
+};
+
+ul:hover{
+    font-size: 18px;
+    filter: drop-shadow(10px 10px 10px purple);
 }
 
 .headline{
