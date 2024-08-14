@@ -245,6 +245,12 @@ a:hover{
     filter: drop-shadow(10px 10px 10px purple);
 }
 
+svg:hover{
+    width: 36px;
+    height: 36px;
+    filter: drop-shadow(6px 6px 4px black)
+}
+
 .headline{
     display: flex;
     justify-content: space-between;
