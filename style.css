@@ -32,7 +32,7 @@ body{
 .container{
     display: grid;
     grid-template-columns: minmax(220px, 250px) 3fr;
-    grid-template-rows: minmax(150px, 180px) repeat(4, 1fr);
+    grid-template-rows: minmax(130px, 150px) repeat(4, 1fr);
     height: fit-content;
 }
 
@@ -237,11 +237,12 @@ button:hover{
     width: 90px;
     height: 35px;
     font-size: 18px;
-    filter: drop-shadow(10px 10px 10px black)
-};
+    filter: drop-shadow(10px 10px 10px black);
+    transition: .3s;
+}
 
 a:hover{
-    font-size: 18px;
+    font-size: 22px;
     filter: drop-shadow(10px 10px 10px purple);
 }
 
@@ -282,4 +283,11 @@ svg:hover{
 
 img{
     border-radius: 50%;
+}
+
+img:hover{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    transition: .3s
 }
