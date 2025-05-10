@@ -200,6 +200,21 @@ input:focus{
     font-size: var(--lg-fn);
 }
 
+.side-lists-one:hover, .side-lists-two:hover,
+.side-lists-three:hover, .side-lists-four:hover,
+.side-lists-five:hover, .side-lists-six:hover, 
+.three-lists-1:hover, .three-lists-2:hover
+,.three-lists-3:hover, .hero-bar:hover{
+     font-size: 22px;
+    filter: drop-shadow(10px 10px 10px rgb(215, 196, 215));
+    
+    svg{
+         width: 28px;
+    height: 28px;
+    /* filter: drop-shadow(6px 6px 4px black) */
+    }
+}
+
 svg{
     fill: white;
 }
@@ -247,10 +262,10 @@ button:hover{
     transition: .3s;
 }
 
-a:hover{
+/* a:hover{
     font-size: 22px;
     filter: drop-shadow(10px 10px 10px purple);
-}
+} */
 
 svg:hover{
     width: 36px;
